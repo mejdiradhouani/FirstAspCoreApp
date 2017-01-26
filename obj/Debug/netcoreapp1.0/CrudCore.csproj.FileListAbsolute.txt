@@ -1,0 +1,9 @@
+D:\Projects\CrudCore\src\CrudCore\bin\Debug\netcoreapp1.0\CrudCore.deps.json
+D:\Projects\CrudCore\src\CrudCore\bin\Debug\netcoreapp1.0\CrudCore.runtimeconfig.json
+D:\Projects\CrudCore\src\CrudCore\bin\Debug\netcoreapp1.0\CrudCore.runtimeconfig.dev.json
+D:\Projects\CrudCore\src\CrudCore\bin\Debug\netcoreapp1.0\CrudCore.dll
+D:\Projects\CrudCore\src\CrudCore\obj\Debug\netcoreapp1.0\CrudCore.AssemblyInfo.cs
+D:\Projects\CrudCore\src\CrudCore\bin\Debug\netcoreapp1.0\CrudCore.pdb
+D:\Projects\CrudCore\src\CrudCore\obj\Debug\netcoreapp1.0\CrudCore.dll
+D:\Projects\CrudCore\src\CrudCore\obj\Debug\netcoreapp1.0\CrudCore.pdb
+D:\Projects\CrudCore\src\CrudCore\obj\Debug\netcoreapp1.0\CrudCore.csprojResolveAssemblyReference.cache
